@@ -250,7 +250,7 @@ For privacy-related questions, concerns, or requests:
 
 **Data Access/Deletion Requests:**
 - Contact us through our support server
-- Email: mathisdelauriere@gmail.com
+- Email: teapot@nerfine.xyz
 - Response time: Within 30 days
 
 **General Privacy Questions:**
